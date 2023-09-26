@@ -1,0 +1,86 @@
+Gnu 1 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=1
+Hyena 2 is thirsty
+Hyena 1 is thirsty
+Hyena 3 is thirsty
+Gnu 3 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=2
+Gnu 2 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=3
+Gnu 2 finished drinking and exits the water cave
+Gnu 3 finished drinking and exits the water cave
+Gnu 1 finished drinking and exits the water cave
+A hyena enters the water cave      hyenas=1   gnus=0
+A hyena enters the water cave      hyenas=2   gnus=0
+A hyena enters the water cave      hyenas=3   gnus=0
+Hyena 2 finished drinking and exits the water cave
+Hyena 3 finished drinking and exits the water cave
+Hyena 1 finished drinking and exits the water cave
+
+
+
+Gnu 4 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=1
+Gnu 3 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=2
+Hyena 4 is thirsty
+Gnu 2 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=3
+Hyena 5 is thirsty
+Hyena 3 is thirsty
+Gnu 1 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=4
+Hyena 2 is thirsty
+Hyena 1 is thirsty
+Gnu 5 is thirsty
+A gnu enters the water cave      hyenas=0   gnus=5
+Gnu 4 finished drinking and exits the water cave
+Gnu 2 finished drinking and exits the water cave
+Gnu 5 finished drinking and exits the water cave
+Gnu 3 finished drinking and exits the water cave
+Gnu 1 finished drinking and exits the water cave
+A hyena enters the water cave      hyenas=1   gnus=0
+A hyena enters the water cave      hyenas=2   gnus=0
+A hyena enters the water cave      hyenas=3   gnus=0
+A hyena enters the water cave      hyenas=4   gnus=0
+A hyena enters the water cave      hyenas=5   gnus=0
+Hyena 2 finished drinking and exits the water cave
+Hyena 5 finished drinking and exits the water cave
+Hyena 3 finished drinking and exits the water cave
+Hyena 4 finished drinking and exits the water cave
+Hyena 1 finished drinking and exits the water cave
+
+
+
+
+Hyena 2 is thirsty
+A hyena enters the water cave      hyenas=1   gnus=0
+Hyena 3 is thirsty
+A hyena enters the water cave      hyenas=2   gnus=0
+Gnu 6 is thirsty
+Hyena 4 is thirsty
+A hyena enters the water cave      hyenas=3   gnus=0
+Gnu 1 is thirsty
+Gnu 2 is thirsty
+Hyena 1 is thirsty
+A hyena enters the water cave      hyenas=4   gnus=0
+Gnu 3 is thirsty
+Gnu 4 is thirsty
+Gnu 5 is thirsty
+Hyena 3 finished drinking and exits the water cave
+Hyena 1 finished drinking and exits the water cave
+Hyena 4 finished drinking and exits the water cave
+Hyena 2 finished drinking and exits the water cave
+A gnu enters the water cave      hyenas=0   gnus=1
+A gnu enters the water cave      hyenas=0   gnus=2
+A gnu enters the water cave      hyenas=0   gnus=3
+A gnu enters the water cave      hyenas=0   gnus=4
+A gnu enters the water cave      hyenas=0   gnus=5
+A gnu enters the water cave      hyenas=0   gnus=6
+Gnu 2 finished drinking and exits the water cave
+Gnu 1 finished drinking and exits the water cave
+Gnu 4 finished drinking and exits the water cave
+Gnu 6 finished drinking and exits the water cave
+Gnu 5 finished drinking and exits the water cave
+Gnu 3 finished drinking and exits the water cave
+
